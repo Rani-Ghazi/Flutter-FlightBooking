@@ -4,7 +4,7 @@ R Airlines is a Flutter application designed to streamline flight booking and bo
 
 ## App Preview
 
-![App Preview](RAirlines.jpg)
+![App Preview](R_Airlines.jpg)
 
 ## Features
 
