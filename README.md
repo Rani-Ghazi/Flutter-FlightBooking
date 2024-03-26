@@ -1,6 +1,6 @@
 # R Airlines
 
-R Airlines is a Flutter application designed to streamline flight booking and boarding pass generation.
+R Airlines is a Flutter UI application designed to streamline flight booking and boarding pass generation.
 
 ## App Preview
 
