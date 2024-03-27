@@ -4,7 +4,7 @@
         android:label="R_Airlines"
         android:icon="@mipmap/launcher_icon">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyAaE9lT5zTYj5AAHjvgQajrOIhpVzuUCss"/>
+               android:value=""/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
